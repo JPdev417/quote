@@ -21,7 +21,7 @@ int main() {
     return 1;
   }
 
-  char quotes[100][256];
+  char quotes[100][512];
   int count = 0;
 
   char *colors[] = {
