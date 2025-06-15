@@ -1,3 +1,5 @@
+
+![Program](https://github.com/user-attachments/assets/cabd1e83-9110-4bf7-850c-2b45cb937159)
 # quote
 Simple program to get a random quote from a list
 
