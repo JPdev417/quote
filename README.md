@@ -17,7 +17,7 @@ gcc quote.c -o quote
 2. Run the program:
 
 ```bash
-./quotes
+./quote
 ```
 
 Each run prints a random colored quote from your list.
